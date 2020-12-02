@@ -1,11 +1,8 @@
-# Advent of Code __AOC_YEAR__ - My Solutions
+# My first Advent of Code, 2020
+
+First Advent of Code 2020 🎄 
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__/master/LICENSE)
-
-# first-advent-of-code-2020
-My first Advent of Code, 2020
-advent-of-code-2020
-
-Advent of Code 2020 🎄 
 
 ## What is Advent of Code?
 
