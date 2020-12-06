@@ -47,16 +47,6 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 [Day 24](day-24/) |
 [Day 25](day-25/) |
 
-## Running Tests
-
-Each day contains its own set of tests. To run them type `npm test`.
-
-## Previous Years
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2019/master/.github/badges/completion.json&label=2019)](https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2019)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2018/master/.github/badges/completion.json&label=2018)](https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2018)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2017/master/.github/badges/completion.json&label=2017)](https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2017)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2016/master/.github/badges/completion.json&label=2016)](https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2016)
-- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2015/master/.github/badges/completion.json&label=2015)](https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-2015)
 
 ## Visit
-- http://adventofcode.com/__AOC_YEAR__
+- http://adventofcode.com/2020
