@@ -1,6 +1,6 @@
 # My first Advent of Code, 2020
 
-First Advent of Code 2020 🎄 
+First Advent of Code 2020 🎄
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__/master/LICENSE)
 
@@ -21,7 +21,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 ## Progress - Days
 |Day | Day Name | Part One |  Part Two |
 -----|----------|----------|-----------|
-[Day 1](day-01/) | Report Repair |
+[Day 1](day-01/) | Report Repair | :star: | :star2:|
 [Day 2](day-02/) | Password Philosophy |
 [Day 3](day-03/) |
 [Day 4](day-04/) |
