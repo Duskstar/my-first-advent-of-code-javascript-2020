@@ -13,7 +13,7 @@ function findTwoNumbers(i, j) {
   }
 };
 
-const inputNumbers = require ('/Users/lnicola/Documents/GitHub/my-first-advent-of-code-javascript-2020/github/day-01/input-data.js');
+const inputNumbers = require ('/Users/lnicola/Documents/GitHub/my-first-advent-of-code-javascript-2020//day-01/input-data.js');
 findTwoNumbers(inputNumbers);
 
 function findThreeNumbers(i, j, k) {
